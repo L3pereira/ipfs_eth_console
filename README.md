@@ -68,7 +68,7 @@ This cid is already stored in the smart contract as multihash struct, don't wast
 ------2 to store as a multihash struct--------<br/>
 ------q to exit--------<br/>
 
-You can save the cid as a string or as a struct, in the truffle tests the struct saved more gas.
+You can save the cid as a string or as a multihash struct, in the truffle tests the struct saved more gas.
 
 If the cid is successfully saved you will see the following:
 
