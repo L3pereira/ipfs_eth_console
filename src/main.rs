@@ -113,7 +113,7 @@ async fn main() -> Result<()> {
 
     loop{
         println!("\n\n\n\n\n");
-        println!("------Please insert a file path or q to exit--------");
+        println!("------Please insert a file path--------");
         println!("\n\n");
         println!("\n\n");
 
@@ -163,7 +163,7 @@ async fn main() -> Result<()> {
 
     loop{
         println!("\n\n\n\n\n");
-        println!("------Please insert a file path--------");
+        println!("------Please Insert--------");
         println!("------1 to store as a string--------");
         println!("------2 to store as a multihash struct--------");
         println!("------q to exit--------");
